@@ -1,0 +1,13 @@
+{
+    "blockchain": "Goerli",
+    "tokenContractAddress": "0xebEDD192b0cCa1dcf5b7Af105B5413263fC48d8c",
+    "publicTokenName": "Volksbank Test Gold Token",
+    "tokenTicker": "VTGT",
+    "tokenStandard": "ERC1155",
+    "numberofDecimals": 18,
+    "tokenVersion": "1.0",
+    "tokenImage": "https://github.com/SwarmMarkets/public/blob/f0568af214f7af3bd1f6e7fe18037ebeff4375b5/SMT/SMT_token_image.png",
+    "tokenCreatives": "https://github.com/SwarmMarkets/public/tree/main/SMT",
+    "link-web": "https://swarm.markets/",
+    "link-twitter": "https://twitter.com/"
+}
